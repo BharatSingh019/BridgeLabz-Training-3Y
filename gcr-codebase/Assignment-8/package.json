@@ -1,0 +1,17 @@
+{
+  "name": "assignment-8",
+  "version": "1.0.0",
+  "description": "OOP and Array Methods Assignment 8",
+  "scripts": {
+    "q1": "node q1-student-result/index.js",
+    "q2": "node q2-food-ordering/index.js",
+    "q3": "node q3-product-discount/index.js",
+    "q4": "node q4-employee-inheritance/index.js",
+    "q5": "node q5-ride-sharing/index.js",
+    "q6": "node q6-inventory-system/index.js",
+    "q7": "node q7-banking/index.js",
+    "q8": "node q8-movie-ticket/index.js",
+    "q9": "node q9-fitness-analytics/index.js",
+    "all": "node run-all.js"
+  }
+}
